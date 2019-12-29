@@ -1,0 +1,46 @@
+body {
+	font-family: Sans-serif, serif;
+	text-align: justify !important;
+}
+
+.height-override {
+	height: 10% !important;
+	background-color: #fff !important;
+	border-bottom: 2px solid #ccc !important;
+	margin: 0px 10% 0px 10% !important;
+}
+
+.course-title {
+	color: #000; /*#08F;*/
+	font-size: 40px;
+	font-weight: 500;
+	background-color: #fff !important;
+}
+
+.container {
+	margin-top: 3% !important;
+}
+
+.clear-fix {
+	height: 20px;
+	background-color: none;
+}
+
+.no-background {
+	background-color: white !important;
+}
+
+.disabled {
+	cursor: text !important;
+	color: #000 !important;
+}
+
+a {
+	/*pointer-events: none !important;*/
+	text-decoration: none !important;
+}
+
+p.no-space-after {
+	margin-bottom: 0px !important;
+}
+
