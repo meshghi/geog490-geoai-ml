@@ -21,9 +21,16 @@ body {
 	margin-top: 3% !important;
 }
 
+.clear-fix0 {
+	height: 20px;
+	background-color: none;
+}
+
 .clear-fix {
 	height: 20px;
 	background-color: none;
+	border-bottom: solid 1px #ebebeb;
+	margin-bottom: 35px;
 }
 
 .no-background {
@@ -42,5 +49,9 @@ a {
 
 p.no-space-after {
 	margin-bottom: 0px !important;
+}
+
+.hidden {
+	display: none !important;
 }
 
